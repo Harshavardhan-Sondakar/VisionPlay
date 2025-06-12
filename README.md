@@ -81,5 +81,5 @@ cd visionplay
 # Install dependencies
 pip install -r requirements.txt
 
-# Run the application
-python main.py
+# Run the frontend Streamlit app
+streamlit run frontend/index.py
